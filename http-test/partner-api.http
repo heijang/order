@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/v1/partners
+Content-Type: application/json
+
+{
+  "partnerName": "이장환",
+  "businessNo": "123412345",
+  "email": "janglee82@gmail.com"
+}
